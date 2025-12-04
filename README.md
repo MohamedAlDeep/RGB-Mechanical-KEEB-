@@ -2,6 +2,9 @@
 
 This is my custom made rgb mechanical keyboard
 
+![](./IMAGES/image-22.png)
+
+![](./IMAGES/MyCustom_75Keeb%20v32.png)
 
 ## BOM
 
