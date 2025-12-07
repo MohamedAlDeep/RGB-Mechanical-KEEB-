@@ -6,6 +6,10 @@ This is my custom made rgb mechanical keyboard
 
 ![](./IMAGES/MyCustom_75Keeb%20v32.png)
 
+![](./IMAGES/schematic%20image.png)
+
+![](./IMAGES/pcb%20image.png)
+
 ## BOM
 
 | Id | Designator | Footprint PCB ONLY | Quantity | Designation | Supplier (LINK) | Price | Total |
