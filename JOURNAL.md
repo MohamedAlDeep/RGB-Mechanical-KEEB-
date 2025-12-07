@@ -4,6 +4,8 @@
 ## Building an Idea
 > Time spent 0.5h
 
+> 23/11/2025 
+
 I open keyboard layout editor to start choosing a layout, i chose the one in the image below and i also want to have a rotary encoder.
 
 ![alt text](./IMAGES/image.png)
@@ -13,7 +15,7 @@ As shown it is a 75% keyboard, i am planning to have a rotary encoder maybe mult
 ![alt text](./IMAGES/image-1.png)
 ---------------------------------------------
 ## First hands on Schematic
-
+> 25/11/2025
 ## MCU
 ### Controller Chip
 For the chip i chose a common chip which is the STM32F072CBT6 is has many GPIOs, i am not sure if it would take everything i need but until now it should work.
@@ -55,6 +57,7 @@ At the end i added mounting holes for the keyboard, i stick with 4 holes as i th
 
 -------------------------------------
 ## Keyboard Keys Schematic
+> 26/11/2025    
 ### Keys
 To start making the key matrix i open a new sheet and i started putting down the 45 angled switch key and the diode, then i copied the same thing for the total number of keys, then i connected the matrix for columns and rows and added the global labels, to finish with the exact number of keys i removed additional ones in the matrix leaving space for shift and spacebar and other keys making the schematic ready to pull into the pcb editor.
 
@@ -86,6 +89,7 @@ Making titles and box areas for each part.
 
 ----------------------------------------------
 ## PCB & Layout
+> 28/11/2025
 ### Schematic addition
 I have added additional parts in schematic which are the stabilizers.
 
@@ -106,6 +110,8 @@ The microcontroller was connected to the USB-C from a preloaded template.
 ----------------------------------------------
 
 ## LEDs
+> 4/12/2025 
+
 This was the most tiring phase because i realized i was using the wrong led footprint so i had to change the schematic symbol and added the SK mini e reverse mount version of led so i can put it anywhere as it doesn't interfere with the upper layer.
 
 Then i had to place every led in its place below the 3 pin holes and then i started connecting each single power pin to a main +5v power line and repeat that every single led, then i made the same changes again for the ground pins and then try to figure out how to connect the other two (DIN-DOUT) signal pins
@@ -117,12 +123,15 @@ so i worked on the inner layers of the board and connect every SINGLE LED which 
 
 --------------------------------------------
 ## MCU Connections
+> 4/12/2025
+
 I think the image speaks for itself, yes i had to do that and do cross overs which was crazy as somehow the pins where not in correct order for the matrix cols and rows so had to put a lot of vias in order to get it done.
 
 ![alt text](./IMAGES/image-19.png)
 
 ---------------------------------------------
 ## Keyboard Case
+> 4/12/2025
 At the end i added my signiture on the front silkscreen and exported the pcb.
 
 ![alt text](./IMAGES/image-20.png)
