@@ -34,3 +34,5 @@ This is my custom made rgb mechanical keyboard
 |  | TOTAL IN USD |  |  |  |  |  | 12.1459 |
 |  | PCB (5 pcs) |  |  |  |  |  | 50 |
 |  | SHIPPING/OTHER |  |  |  |  |  | 75 |
+
+Add 15 usd for shipping and tax
