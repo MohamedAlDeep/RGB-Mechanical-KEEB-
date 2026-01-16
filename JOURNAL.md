@@ -134,6 +134,13 @@ I think the image speaks for itself, yes i had to do that and do cross overs whi
 > 4/12/2025
 At the end i added my signiture on the front silkscreen and exported the pcb.
 
+The case is simply an external outline of the pcb with a side opening for the usb-c port.
+![](./IMAGES/PCB_Case_Bottom.png)
+![](./IMAGES/PCB_Case_Bottom_2.png)
+![](./IMAGES/PCB_Case_Upper.png)
+
+------------------------------------
+### End Result
 ![alt text](./IMAGES/image-20.png)
 
 This was easy task i am good in CAD so i made a simple flat case no fancy things i made it in Fusion360 and got it done then i rendered the images with the exported PCB.
