@@ -132,6 +132,15 @@ I think the image speaks for itself, yes i had to do that and do cross overs whi
 ---------------------------------------------
 ## Keyboard Case
 This was easy task i am good in CAD so i made a simple flat case no fancy things i made it in Fusion360 and got it done then i rendered the images with the exported PCB, The case is simply an external outline of the pcb with a side opening for the usb-c port.
+
+<img width="914" height="445" alt="image" src="https://github.com/user-attachments/assets/adc7d9c6-5293-48be-a68f-3cc26d81d092" />
+
+The keyboard case is made of one large outer rectangle that is filled and holds the general pcb.
+<img width="1013" height="327" alt="image" src="https://github.com/user-attachments/assets/c3ca4626-59a7-4f9d-baab-f1188fd2a8a5" />
+The small rectangle extension holds the place where the pcb has the MCU.
+<img width="912" height="489" alt="image" src="https://github.com/user-attachments/assets/5576804f-23bc-4199-8c5a-e8512c253377" />
+The outer line gives nice shape to the pcb.
+
 ![](./IMAGES/PCB_Case_Bottom.png)
 ![](./IMAGES/PCB_Case_Bottom_2.png)
 ![](./IMAGES/PCB_Case_Upper.png)
@@ -142,7 +151,6 @@ This was easy task i am good in CAD so i made a simple flat case no fancy things
 At the end i added my signiture on the front silkscreen and exported the pcb.
 
 ![alt text](./IMAGES/image-20.png)
-
 
 
 
